@@ -38,7 +38,7 @@ This project is an advanced, integrated interior design and spatial planning pla
 
 ### ⑤ Data Persistence & Real-Time Cost Estimation
 * **JSON-Based Serialization**: Persists wall topologies, material IDs, furniture transforms, and metadata into local structured JSON files.
-* **Versioning & Thumbnail Management**: A dedicated management dashboard featuring thumbnail previews, timestamps, item counts, and real-time total price calculations (`總價`) to support multi-version design comparisons.
+* **Versioning & Thumbnail Management**: A dedicated management dashboard featuring thumbnail previews, timestamps, item counts, and real-time total price calculations to support multi-version design comparisons.
 
 ---
 
@@ -46,7 +46,7 @@ This project is an advanced, integrated interior design and spatial planning pla
 As the **Team Lead of a 5-member cross-functional group**, my core responsibilities included:
 * **System Architecture Design**: Established the modular OOP structure in Unity, defining the data flow between the spatial geometry engine, UI controllers, and local storage.
 * **AI & NLP Integration**: Engineered the OpenAI API pipeline to handle natural language parsing for automated room layout generation and smart asset recommendations.
-* **Git Version Control & Project Management**: Managed multi-branch collaboration, resolved complex scene merge conflicts (`.unity` binaries and prefabs), and delivered the project on schedule, earning the **First Place Outstanding Award (特優獎)**.
+* **Git Version Control & Project Management**: Managed multi-branch collaboration, resolved complex scene merge conflicts (`.unity` binaries and prefabs), and delivered the project on schedule, earning the **First Place Outstanding Award **.
 
 ---
 
