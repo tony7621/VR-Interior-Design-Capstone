@@ -1,3 +1,5 @@
+<video src="./cv_scouter%20demo.mp4" controls="controls" width="100%"></video>
+
 # 🏆 VR Interior Design System & AI Spatial Assistant (Capstone Project)
 
 > **Award**: First Place Outstanding Award
