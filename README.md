@@ -58,4 +58,9 @@ As the **Team Lead of a 5-member cross-functional group**, my core responsibilit
 * **Execution Environment**: Windows 10/11 (64-bit), recommended with dedicated GPU and SteamVR-compatible headset (e.g., HTC Vive series)
 
 ---
+
+---
 *Note: Due to commercial 3D asset licensing and academic IP policies, the complete Unity source code is private. Architectural specifications and documentation are available upon request.*
+
+👉 **[View Detailed Functional Guide & UI Walkthrough (English)](FUNCTION_GUIDE_EN.md)**  
+👉 **[點此查看完整中文系統功能與實機介面導覽 (繁體中文)](FUNCTION_GUIDE_ZH.md)**
